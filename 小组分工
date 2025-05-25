@@ -7,7 +7,7 @@
 成员2：姜一芊  绘图代码复现   复现图一图二
 
 成员3：邹杨   复现图四   合并保存
-# 加载必要的包
+成员2：# 加载必要的包
 library(ggplot2)
 library(readxl)
 library(rms)  #用于回归建模和生存分析
@@ -211,7 +211,7 @@ hr_plot
 
 p2 <- hr_plot
 
-r代码
+成员3：r代码
 library(ggplot2)
 library(readxl)
 library(rms)  #用于回归建模和生存分析
